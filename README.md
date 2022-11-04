@@ -12,7 +12,7 @@ The app is a single-page application that meets the PWA criteria. It features a 
 ---
 Application GitHub URL : <a href= "https://github.com/monicadolce/PWA_text_editor">Visit Monica's GitHub Repository</a> 
 
-Application Heroku URL : <a href= "">Visit Monica's Heroku Application</a> 
+Application Heroku URL : <a href= "https://young-hamlet-47511.herokuapp.com/">Visit Monica's Heroku Application</a> 
 
 ## References
 ---
